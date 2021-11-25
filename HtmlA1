@@ -1,0 +1,41 @@
+<table>
+  <tr>
+    <td>row_1/S.No</td>
+    <td>FirstName</td>
+    <td>LastName</td>
+    <td>City</td>
+    <td>Country</td>
+  </tr>
+  <tr>
+    <td>row_2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>row_3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>row_4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>row_5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<button onclick="myCreateFunction()">Add New Row</button>
